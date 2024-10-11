@@ -31,6 +31,7 @@ export default function App() {
     { id: '1', image: 'https://l1nk.dev/sARdV', name: 'Leite Integral Amanhecer', category: 'Leite e Derivados', price: 4.34, stock: 1000 },
     { id: '2', image: 'https://l1nk.dev/T6GQx', name: 'Leite Desnatado Amanhecer', category: 'Leite e Derivados', price: 4.44, stock: 320 },
     { id: '3', image: 'https://acesse.one/wlLIO', name: 'Leite Zero Lactose Amanhecer', category: 'Leite e Derivados', price: 4.89, stock: 120 },
+    { id: '4', image: 'https://acesse.one/wlLIO', name: 'Leite Zero Lactose Amanhecer', category: 'Leite e Derivados', price: 4.89, stock: 120 },
   ];
 
   return (
